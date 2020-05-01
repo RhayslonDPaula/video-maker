@@ -1,2 +1,2 @@
 # video-maker
-Projeto open soure para fazer videos Automatizaodos
+Projeto open source para fazer videos Automatizaodos
